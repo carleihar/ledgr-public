@@ -1,0 +1,6 @@
+framework module Pods_ledgr {
+  umbrella header "Pods-ledgr-umbrella.h"
+
+  export *
+  module * { export * }
+}
